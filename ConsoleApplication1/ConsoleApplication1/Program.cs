@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-		Console.WriteLine("Edited by Greg");
+
+		Console.WriteLine("Edited by Greg & Tom");
+
         }
     }
 }
