@@ -10,7 +10,8 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-		
+
+		Console.WriteLine("Added a new line in feature1");
 
 		Console.WriteLine("Edited by Greg");
 
