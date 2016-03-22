@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-		Console.WriteLine("Edited by Greg & Tom");
+		Console.WriteLine("Edited by Greg");
 
         }
     }
